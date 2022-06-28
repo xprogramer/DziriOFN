@@ -25,6 +25,7 @@ Table 2. Inter-agreement annotation between different annotators
 | normal | 3,449 | 3,603 | 4,008 |
 | abusive | 1,108 | 85 | 141 |
 
+In Table 2, the 3rd, 4th and 5th annotators are considered as a single annotator (3rd annotator). For more details, check the technical article.
 
 # Evaluation
 
