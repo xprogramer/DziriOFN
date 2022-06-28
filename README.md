@@ -1,7 +1,3 @@
-# DziriOFN
-The corpus for offensive language detection in under-resourced Algerian dialectal Arabic
-
-
 # DziriOFN Corpus (Dziri Offensive corpus) v1.0
 
 Dziri refers to the name of the Algerian dialectal Arabic. DziriOFN is a new corpus dedicated to offensive language detection on this under-resourced language. Dziri dialect if known as a complex socio-linguistic situation, where the latter is known by the code-switching phenomenon and borrowed words from several languages (e.g. Turkish, Berber, French, Spanish, etc.). The corpus is crawled from Facebook social media, because the latter is the common used social media network by the Algerian community. In overall, the corpus contains 8.7k texts manually annotated as normal, offensive and abusive, where it was annotated by five different native speakers. The texts are written in Arabic script, and some of them are written in Latin script (i.e. Arabizi).
